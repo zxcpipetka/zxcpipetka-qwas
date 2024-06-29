@@ -1,0 +1,17 @@
+.erf {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.Q {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 300px;
+}
+.z {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    width: 70%;
+}
