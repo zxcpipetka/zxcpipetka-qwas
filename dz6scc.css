@@ -21,3 +21,8 @@
     height:300px;
     color: aliceblue;
 }
+.centr {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
