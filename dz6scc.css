@@ -29,8 +29,11 @@
     justify-content: space-around;
 }
 .divv  {
-    background-color: rgb(76, 76, 204);
+    background-color: rgb(150, 150, 150);
     width: 75px;
     height: 40px;
     border-radius: 20px;
+}
+.divv:hover {
+    background-color: rgb(76, 76, 204);
 }
