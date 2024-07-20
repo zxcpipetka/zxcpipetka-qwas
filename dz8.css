@@ -14,3 +14,16 @@ div > p {
 .yellow {
     color: yellow;
 }
+.table {
+    width:600px;
+    border:1;
+}
+.mon {
+    background-color: blueviolet;
+}
+.thu {
+    background-color: aquamarine;
+}
+.sat {
+    background-color: orangered;
+}
