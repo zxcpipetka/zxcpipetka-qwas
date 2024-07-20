@@ -1,0 +1,16 @@
+h3::first-line {
+    color:pink;
+}
+#greycol {
+    color: gray;
+}
+div > p {
+    color: red;
+}
+
+.text-box:nth-child(7) {
+   color:green;
+}
+.yellow {
+    color: yellow;
+}
