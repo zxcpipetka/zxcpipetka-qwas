@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 h3::first-line {
     color:pink;
 }
@@ -21,9 +25,15 @@ div > p {
 .mon {
     background-color: blueviolet;
 }
+.mon:hover {
+    background-color:fuchsia;
+}
 .thu {
     background-color: aquamarine;
 }
 .sat {
     background-color: orangered;
+}
+td::first-letter {
+    color: greenyellow;
 }
