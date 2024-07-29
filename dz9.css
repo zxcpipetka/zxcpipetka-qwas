@@ -1,5 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
-body {
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+.txtq {
     font-family: "Roboto", sans-serif;
+    font-size: 14px;   
+}
+.txtw {
+    font-family: "Raleway", sans-serif;
+    font-size: 26px;
+}
+.txte {
+    font-family: "Roboto", sans-serif;
+    font-size: 44px; 
+}
+.txtr {
+    font-family: "Roboto", sans-serif;
+    font-size: 36px; 
+}
+.txtt {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;   
 }
