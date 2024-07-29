@@ -2,21 +2,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 .txtq {
     font-family: "Roboto", sans-serif;
-    font-size: 14px;   
+    font-size: 14px;  
+    line-height: 16.41px; 
 }
 .txtw {
     font-family: "Raleway", sans-serif;
     font-size: 26px;
+    line-height :30.52px;
 }
 .txte {
     font-family: "Roboto", sans-serif;
-    font-size: 44px; 
+    font-size: 44px;
+    line-height: 60px; 
 }
 .txtr {
     font-family: "Roboto", sans-serif;
-    font-size: 36px; 
+    font-size:26px; 
+    line-height :30.52px;
 }
 .txtt {
     font-family: "Roboto", sans-serif;
-    font-size: 14px;   
+    font-size: 14px;  
+    line-height: 16.41px;  
+
 }
